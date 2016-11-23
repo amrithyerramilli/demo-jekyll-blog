@@ -7,3 +7,6 @@ categories: jekyll update
 
 @JD - Hello Faggot
 FUCK you
+
+
+Fixed review comments
