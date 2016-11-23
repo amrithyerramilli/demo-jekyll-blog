@@ -7,7 +7,10 @@ categories: jekyll update
 
 Your mamma
 Your mom
-
+<<<<<<< HEAD
+modifying your file.
+fuck you faggot
+RB resolving conflicts.
 Your mom
 fuck you faggot
 adasdasdsadasdsadasdsadsa
@@ -22,5 +25,6 @@ as
 ds
 ad
 as
+>>>>>>> 4c05760191aa2cca33533894d89f48de66974bd5
 
 Change Commit
