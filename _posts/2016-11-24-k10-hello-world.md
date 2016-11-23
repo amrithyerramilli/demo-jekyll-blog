@@ -9,5 +9,3 @@ K10 Hi there.
 changeset 1
 
 changeset 2
-
-changeset 3
