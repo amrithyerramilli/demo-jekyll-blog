@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "AY Hello World"
+title:  "Git Bootcamp!!"
 date:   2016-11-23 11:06:26 +0530
 categories: jekyll update
 ---
-I am a faggot!
-LOL!
+What's up doc? 
