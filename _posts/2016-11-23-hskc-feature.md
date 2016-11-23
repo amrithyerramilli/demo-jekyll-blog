@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 This is my new feature
+
+Made some changes to the feature
