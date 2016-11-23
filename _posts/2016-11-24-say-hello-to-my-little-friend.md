@@ -9,4 +9,4 @@ categories: jekyll update
 FUCK you
 
 
-Review the source code
+Fixed review comments
