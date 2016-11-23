@@ -7,3 +7,4 @@ categories: jekyll update
 Hi there. I'm a nerd. 
 Nerds  are cool.
 Yolo bitches.
+yup got it
