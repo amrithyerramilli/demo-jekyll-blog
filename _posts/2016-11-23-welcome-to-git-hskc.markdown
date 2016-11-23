@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "K10 Hello World"
+title:  "Welcome to Git! HSKC"
 date:   2016-11-23 11:06:26 +0530
 categories: jekyll update
 ---
-K10 Hi there. 
 
-changeset 1
-
-changeset 2
+Hi!
