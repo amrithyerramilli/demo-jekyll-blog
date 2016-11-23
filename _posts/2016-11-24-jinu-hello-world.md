@@ -10,4 +10,4 @@ You should too :)
 Hi there. This is my First Edit to my First Blog.
 
 
-New Feature: I Hate Cows.
+New Feature: I Hate Cows.I really hate them.
